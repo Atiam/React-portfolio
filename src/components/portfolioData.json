@@ -9,15 +9,36 @@
   {
     "title": "E-commerce_Tiam-Arnaud",
     "explain": "Internet retail, also known as e-commerce, plays a significant role within the electronics industry, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of electronic products.",
-    "image": "burger.gif",
-    "url": "",
+    "image": "https://github.com/Atiam/E-commerce_Tiam-Arnaud/blob/main/assets/images_get.png?raw=true",
+    "url": "https://1drv.ms/v/s!Al52s9YCFUObkVKk5UGC8rR7LR4h?e=udZhxm",
     "repourl": "https://github.com/Atiam/E-commerce_Tiam-Arnaud"
   },
   {
-    "title": "employees_payroll_tracker-Arnaud_ti",
-    "explain": "This application is an employee payroll tracker. It help you the manager to see his employees' payroll data and properly budget for the company.",
-    "image": "Google Search Books",
-    "url": "",
-    "repourl": "https://github.com/Atiam/employees_payroll_tracker-Arnaud_tia"
+    "title": "Bootcamp Buddy",
+    "explain": "This application aims to help us and others who are interested in finding resources on HTML, CSS, JavaScript, Node.js, and Express.js in a more streamlined fashion.",
+    "image": "https://github.com/atengelsgjerd/Bootcamp-Buddy/blob/main/assets/images/landing%20page.png?raw=true",
+    "url": "https://bootcamp-buddy.onrender.com/login",
+    "repourl": "https://github.com/atengelsgjerd/Bootcamp-Buddy"
+  },
+  {
+    "title": "Date-Night",
+    "explain": "Date Night looks to alleviate that anxiety by randomizing the selection of movie, and cocktail for the evening.",
+    "image": "https://github.com/atengelsgjerd/Date-Night/blob/main/assets/img/dateNight.png?raw=true",
+    "url": "https://atengelsgjerd.github.io/Date-Night/",
+    "repourl": "https://github.com/atengelsgjerd/Date-Night"
+  },
+  {
+    "title": "Note_Taker-Arnaud_Tiam",
+    "explain": "This applicationis a note taker; it can be used to write and save notes.",
+    "image": "https://github.com/Atiam/Note_Taker-Arnaud_Tiam-/blob/main/assets/images/note_taker-image-1.png?raw=true",
+    "url": "https://note-taker-arnaud-tiam.onrender.com/notes",
+    "repourl": "https://github.com/Atiam/Note_Taker-Arnaud_Tiam-"
+  },
+  {
+    "title": "tasks_tracker-Arnaud_Tiam",
+    "explain": "Task-board-Tracker is a web application users can add individual project tasks, manage their state of progress and track overall project progress accordingly.",
+    "image": "https://github.com/Atiam/tasks_tracker-Arnaud_Tiam/blob/main/assets/images/Task%20board%202.png?raw=true",
+    "url": "https://atiam.github.io/tasks_tracker-Arnaud_Tiam/",
+    "repourl": "https://github.com/Atiam/tasks_tracker-Arnaud_Tiam"
   }
 ]

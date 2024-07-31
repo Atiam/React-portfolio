@@ -1,8 +1,11 @@
 export default function About() {
   return (
     <div>
-      <h1>About</h1>
-      <p>This is the about page.</p>
+      <h1>About Me</h1>
+      <img src="../src/assets/tiam.jpg" alt="" />
+      <p>With over 8 years of experience as an Oracle and PostgreSQL DBA, I have knowledge and 
+hands-on experience in database design, migration, upgrades, database security, backup and 
+recovery, Data obfuscation, Automation, replication, monitoring and tuning. </p>
     </div>
   );
 }
