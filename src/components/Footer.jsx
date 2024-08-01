@@ -5,20 +5,13 @@ const Footer = () => {
   const navigate = useNavigate();
   return (
     <footer className="w-100 mt-auto bg-secondary p-4">
-      <div className="container text-center mb-5">
-   
-        <h4>
-          Made with{' '}
-          <span
-            className="emoji"
-            role="img"
-            aria-label="heart"
-            aria-hidden="false"
-          >
-            ❤️
-          </span>{' '}
-          by Arnaud Tiam.
-        </h4>
+      <div style={{
+        display: "flex",
+        justifyContent : 'space-around',
+             }}>
+ 
+        <a href='https://github.com/Atiam'>GitHub</a>
+        <a href='https://www.linkedin.com/in/arnaud-duclaire-tiam-t-b1abbbb6/'>LinkedIn</a>
       </div>
     </footer>
   );

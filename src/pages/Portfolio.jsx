@@ -10,10 +10,10 @@ export default function Portfolio(){
         {portfolioData.map((item) => (
           <div key={item}>
             <h3>{item.title}</h3>
-            <img src={item.image} alt={item.title} />
-            <p>{item.explain}</p>
-            <Link to={item.url} >Deployed url</Link>
-            <Link to={item.repourl}>repo url</Link>
+            <img src={item.image} alt={item.title} style={{ width: 480 }} />
+            <p>{item.explain} </p>
+            <Link to={item.url} style={{ width: 480 }} >Deployed url</Link>
+            <Link to={item.repourl} style={{ width: 480 }} >repo url</Link>
           </div>
         ))}
       </div>

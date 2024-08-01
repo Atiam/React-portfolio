@@ -2,7 +2,7 @@
   {
     "title": "Weather_Dashboard-Arnaud_Tiam",
     "explain": "5-Day Weather Dashboard to see the weather of any City. This App helps to save data on local-storage and revisit previous searches as easy to click buttons.",
-    "image": "burger.gif",
+    "image": "https://github.com/Atiam/Weather_Dashboard-Arnaud_Tiam/blob/main/Assets/images/web-app-image.png?raw=true",
     "url": "https://atiam.github.io/Weather_Dashboard-Arnaud_Tiam/",
     "repourl": "https://github.com/Atiam/Weather_Dashboard-Arnaud_Tiam"
   },

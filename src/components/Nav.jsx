@@ -2,7 +2,10 @@ import { Link } from "react-router-dom";
 
 export default function Nav(){
     return (
-      <nav>
+      <nav style={{
+        display: "flex",
+        justifyContent : 'space-around',
+             }} >
         <Link to="/Home">Home</Link>
         <Link to="/">About</Link>
         <Link to="/contact">Contact</Link>
