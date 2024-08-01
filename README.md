@@ -1,8 +1,41 @@
-# React + Vite
+# React-Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+ This project aim to create a portfolio, using my new React skills to help set me apart from other developers whose portfolios don’t use the latest technologies.
+## Table Of Contents
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Questions](#questions)
+- [Illustration](#illustration)
 
-Currently, two official plugins are available:
+  ## Usage
+Employer looking for candidates with experience building single-page applications,
+WANT to view a potential employee's deployed React portfolio of work samples
+SO THAT their can assess whether they're a good candidate for an open position
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+  ## License
+This application is licensed under the MIT license.
+
+## Contributing
+The author is Arnaud Tiam
+For any contritution you can fork: https://github.com/Atiam/React-portfolio
+
+
+## Questions
+For any correction, please find the source code on Atiam Github. For any questions, please reach out to me on arnaudtiam50@gmail.com.
+
+
+## Illustration
+![get_data](https://github.com/Atiam/E-commerce_Tiam-Arnaud/blob/main/assets/images_get.png)
+
+
+
+
+
+
+
+
+
+
