@@ -10,9 +10,9 @@
 - [Illustration](#illustration)
 
   ## Usage
-Employer looking for candidates with experience building single-page applications,
-WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT their can assess whether they're a good candidate for an open position
+This app can we used by the Employer looking for candidates with experience building single-page applications.
+They can view a potential employee's deployed React portfolio of work samples.
+This will help them assess whether they're a good candidate for an open position.
 
 
   ## License
@@ -28,7 +28,7 @@ For any correction, please find the source code on Atiam Github. For any questio
 
 
 ## Illustration
-![get_data](https://github.com/Atiam/E-commerce_Tiam-Arnaud/blob/main/assets/images_get.png)
+![image](https://github.com/Atiam/React-portfolio/blob/main/src/assets/web-application-image.png?raw=true)
 
 
 
